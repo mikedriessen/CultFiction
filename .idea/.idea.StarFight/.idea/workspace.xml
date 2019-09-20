@@ -1,7 +1,22 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8e75dff-2084-4a3f-8b5e-e4802d5b0a83" name="Default Changelist" comment="" />
+    <list default="true" id="d8e75dff-2084-4a3f-8b5e-e4802d5b0a83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StarFight/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StarFight/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StarFight/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StarFight/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StarFight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StarFight/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Models/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Models/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/xWing/LagCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/xWing/LagCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Ship.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Ship.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipPhysics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipPhysics.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Shoot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Shoot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/xWing/UI/MouseCrosshairUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/xWing/UI/MouseCrosshairUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/xWing/UI/SpeedUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/xWing/UI/SpeedUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,19 +25,45 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMovement.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/NonInteractable/NavMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMovement/EnemyMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Shoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/WalkingEnemy/WalkingAiEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/NonInteractable/WaypointSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Models/Bullet.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/LagCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/UI/MouseCrosshairUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/UI/SpeedUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipPhysics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnemyMovement/EnemyShooting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/NonInteractable/WaypointsRandom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Death.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EnemyMovement/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EnemyMovement/EnemyMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/WalkingEnemy/WalkingAiEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EnemyMovement/EnemyShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/NonInteractable/WaypointsRandom.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/NonInteractable/WaypointSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/NonInteractable/NavMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Shoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Death.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Ship.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipInput.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/Shoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/Ship/ShipPhysics.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/UI/MouseCrosshairUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/UI/SpeedUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/xWing/LagCamera.cs" />
       </list>
     </option>
   </component>
@@ -32,6 +73,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,7 +113,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568195936864</updated>
-      <workItem from="1568195978008" duration="7839000" />
+      <workItem from="1568195978008" duration="8020000" />
+      <workItem from="1568621044764" duration="3112000" />
+      <workItem from="1568628355058" duration="764000" />
+      <workItem from="1568792606337" duration="11945000" />
+      <workItem from="1568814060447" duration="182000" />
+      <workItem from="1568814255172" duration="59000" />
+      <workItem from="1568814409824" duration="936000" />
+      <workItem from="1568911198012" duration="5461000" />
+      <workItem from="1568986479095" duration="1523000" />
     </task>
     <servers />
   </component>
@@ -85,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

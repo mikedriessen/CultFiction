@@ -1,21 +1,11 @@
-﻿//
-// Copyright (c) Brian Hernandez. All rights reserved.
-// Licensed under the MIT license. See LICENSE file in the project root for details.
-//
-
+﻿
 using UnityEngine;
 
-/// <summary>
-/// Adds a slight lag to camera rotation to make the third person camera a little more interesting.
-/// Requires that it starts parented to something in order to follow it correctly.
-/// </summary>
 [RequireComponent(typeof(Camera))]
 public class LagCamera : MonoBehaviour
 {    
-    [Tooltip("Speed at which the camera rotates. (Camera uses Slerp for rotation.)")]
     public float rotateSpeed = 90.0f;
 
-    [Tooltip("If the parented object is using FixedUpdate for movement, check this box for smoother movement.")]
     public bool usedFixedUpdate = true;
 
     private Transform target;

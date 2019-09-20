@@ -1,15 +1,7 @@
-﻿//
-// Copyright (c) Brian Hernandez. All rights reserved.
-// Licensed under the MIT license. See LICENSE file in the project root for details.
-//
-
+﻿
 using UnityEngine;
 using UnityEngine.UI;
 
-/// <summary>
-/// Updates the position of this GameObject to reflect the position of the mouse
-/// when the player ship is using mouse input. Otherwise, it just hides it.
-/// </summary>
 public class MouseCrosshairUI : MonoBehaviour
 {
     private Image crosshair;
